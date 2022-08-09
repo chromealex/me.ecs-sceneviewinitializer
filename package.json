@@ -1,10 +1,9 @@
 {
-  "name": "com.me.ecs.addons.dataconfiggenerator",
+  "name": "com.me.ecs.addons.sceneviewinitializer",
   "version": "1.0.0",
-  "displayName": "ME.ECS Addon DataConfig Generator",
-  "description": "ME.ECS Addon DataConfig Generator Package.",
+  "displayName": "ME.ECS Addon Scene View Initializer",
+  "description": "ME.ECS Addon Scene View Initializer Package.",
   "unity": "2020.3",
-  "documentationUrl": "https://github.com/chromealex/me.ecs-dataconfiggenerator/blob/master/README.md",
   "dependencies": {
     "com.unity.collections": "1.0.0-pre.6",
     "com.unity.ui": "1.0.0-preview.18",
