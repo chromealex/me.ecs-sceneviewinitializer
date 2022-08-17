@@ -6,7 +6,8 @@
         "ME.ECS.Addons.DataConfigs",
         "Unity.Mathematics",
         "ME.Pools",
-        "ME.ECS.FPMath"
+        "ME.ECS.FPMath",
+        "ME.ECS.Transform"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
