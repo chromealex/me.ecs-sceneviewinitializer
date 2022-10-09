@@ -14,7 +14,8 @@ namespace ME.ECS.Views.Providers {
 
     public static class SceneViewInitializer {
 
-        static SceneViewInitializer() {
+        [UnityEngine.RuntimeInitializeOnLoadMethod(UnityEngine.RuntimeInitializeLoadType.BeforeSceneLoad)]
+        private static void Initialize() {
 
             InitializerBase.RegisterSceneCallback(InitializeScene);
 
