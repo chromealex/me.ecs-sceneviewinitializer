@@ -7,7 +7,8 @@
         "Unity.Mathematics",
         "ME.Pools",
         "ME.ECS.FPMath",
-        "ME.ECS.Transform"
+        "ME.ECS.Transform",
+        "Unity.Collections"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
