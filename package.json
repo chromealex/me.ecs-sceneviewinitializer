@@ -1,6 +1,6 @@
 {
   "name": "com.me.ecs.addons.sceneviewinitializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "ME.ECS Addon Scene View Initializer",
   "description": "ME.ECS Addon Scene View Initializer Package.",
   "unity": "2020.3",
